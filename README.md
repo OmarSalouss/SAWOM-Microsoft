@@ -2,7 +2,9 @@
 SAWOM is a group of the first char of the names of my Team.
 ## Introduction:
 We developed a website serving as a business incubator, where business owners are organized into specific groups based on their industry. For example, all clothing business owners are grouped together for easy navigation and so on. This setup allows clients to conveniently find exactly what they are looking for.
+
 As an individual contribution, I created a [Chatting-System]([url](https://github.com/OmarSalouss/Chatting-System.git)) within the website. This system enables users to send and receive messages, and it includes an auto-reorder feature based on the previous chat history and message timestamps. Additionally, users have the ability to search for any specific user within the system.
+
 Instead of developing a payment system, we opted to utilize the Chatting-System was I built. This system serves as a means for communication and interaction between users, but it does not have the functionality to process payments.
 ## Internship:
 **Software Engineer – Microsoft R & D
